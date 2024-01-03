@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User wants to access the profile editing page but does not make any changes</description>
+   <name>TC.ACC.05 (Negative)-FAIL</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94fbbd4c-b705-42ed-8014-453c1742ecef</testCaseGuid>
+</TestCaseEntity>

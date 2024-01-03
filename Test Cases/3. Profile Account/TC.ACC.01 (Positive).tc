@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User wants to edit profile account with valid credentials</description>
+   <name>TC.ACC.01 (Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56b291e5-9b11-4691-82f3-5dc136ffbeff</testCaseGuid>
+</TestCaseEntity>

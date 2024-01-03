@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User wants to register using correct credentials</description>
+   <name>TC.REG.01(Positive)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b80c4865-ed02-4c64-ace5-c4b652b73ae9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User wants to register with invalid format email</description>
+   <name>TC.REG.03 (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04418579-87c7-4300-a412-12245cdf72f8</testCaseGuid>
+</TestCaseEntity>
