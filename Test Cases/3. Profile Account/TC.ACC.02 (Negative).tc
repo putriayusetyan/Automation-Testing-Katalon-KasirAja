@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User want to edit profile account with invalid format email</description>
+   <name>TC.ACC.02 (Negative)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89d8cb46-8d7b-4f9d-8a93-3557b58bb804</testCaseGuid>
+</TestCaseEntity>
